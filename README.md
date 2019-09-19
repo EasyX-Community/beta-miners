@@ -1,6 +1,8 @@
 # trex-beta
 
-THESE ARE TAKEN DIRECTLY FROM T-REX DISCORD. WE MOVED THEM HERE SO WE CAN LINK TO THEM FROM OUR POOL.
+THESE ARE TAKEN DIRECTLY FROM T-REX DISCORD. 
+
+WE MOVED THEM HERE SO WE CAN LINK TO THEM FROM OUR POOL.
 
 This version fixes x16rv2 issue where the pool hashrate was lower than reported by the console
 
