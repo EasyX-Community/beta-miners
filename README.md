@@ -6,12 +6,12 @@ There is no warranty expressed or implied in usage of these miners. These miner'
 
 Keep in mind these miners have a 1% or more dev fee that cannot be removed.
 
-Current downloads:
+## Current downloads:
 - T-Rex 0.14.2 BETA (cointains mega.nz links, ads)
 
 --------
 
-## T-Rex 0.14.2 (BETA)
+### T-Rex 0.14.2 (BETA)
 
 THESE ARE TAKEN DIRECTLY FROM T-REX DISCORD (#download-links channel)
 
