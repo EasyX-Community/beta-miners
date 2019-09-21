@@ -1,6 +1,6 @@
 # BETA miner downloads taken from official sources
 
-Official miners are "sanitized" and taken from sources that are not easily able to be linked to directly, contain megaupload/mega.nz/survey/etc links, or contain advertisements on download pages. They are contained here to be linked to from EasyXPool.tk
+**Official miners are "sanitized"** and taken from sources that are not easily able to be linked to directly, contain megaupload/mega.nz/survey/etc links, or contain advertisements on download pages. They are contained here to be linked to from EasyXPool.tk
 
 There is no warranty expressed or implied in usage of these miners. These miner's come directly from their maintainers. 
 
