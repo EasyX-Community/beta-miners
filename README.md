@@ -4,7 +4,7 @@
 
 There is no warranty expressed or implied in usage of these miners. These miner's come directly from their maintainers. 
 
-Keep in mind these miners have a 1% or more dev fee that cannot be removed.
+**Keep in mind these miners have a 1% or more dev fee that cannot be removed.**
 
 -------
 
